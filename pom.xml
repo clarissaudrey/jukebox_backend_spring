@@ -9,7 +9,7 @@
         <relativePath/>
     </parent>
     <groupId>org.springframework</groupId>
-    <artifactId>springboot-juke-rest-api</artifactId>
+    <artifactId>jukebox-get-api</artifactId>
     <version>0.0.1</version>
     <name>jukebox_backend_spring</name>
     <description>Backend dev assignment from TouchTunes</description>

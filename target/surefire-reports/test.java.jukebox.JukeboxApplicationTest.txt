@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: test.java.jukebox.JukeboxApplicationTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.025 s - in test.java.jukebox.JukeboxApplicationTest
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.856 s - in test.java.jukebox.JukeboxApplicationTest

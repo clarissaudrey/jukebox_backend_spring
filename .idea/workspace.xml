@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18859060-ad6a-4c1c-9ec2-2e08aa6fbc39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jukebox_backend_spring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/JukeboxApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/controller/JukeboxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/models/Jukebox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/jukebox/models/Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/jukebox/JukeboxApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/jukebox/controller/JukeboxController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/jukebox/models/Jukebox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main/java/jukebox/models/Setting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springboot-juke-rest-api-0.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springboot-juke-rest-api-0.0.1.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-test.java.jukebox.JukeboxApplicationTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/test.java.jukebox.JukeboxApplicationTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/test/java/jukebox/JukeboxApplicationTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678334628257</updated>
-      <workItem from="1678334637776" duration="27040000" />
+      <workItem from="1678334637776" duration="28449000" />
     </task>
     <servers />
   </component>

@@ -1,1 +1,4 @@
-/Users/clarissaudrey/IdeaProjects/jukebox_backend_spring/src/main/java/jukeboxSpring/JukeboxApplication.java
+/Users/clarissaudrey/IdeaProjects/jukebox_backend_spring/src/main/java/jukebox/models/Setting.java
+/Users/clarissaudrey/IdeaProjects/jukebox_backend_spring/src/main/java/jukebox/JukeboxApplication.java
+/Users/clarissaudrey/IdeaProjects/jukebox_backend_spring/src/main/java/jukebox/models/Jukebox.java
+/Users/clarissaudrey/IdeaProjects/jukebox_backend_spring/src/main/java/jukebox/controller/JukeboxController.java
