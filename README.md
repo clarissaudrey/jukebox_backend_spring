@@ -1,5 +1,13 @@
 # Jukebox's API (GET Endpoint) using Spring
 
+### Dockerization
+
+The application has been dockerized and can be found on the [Docker Hub](https://hub.docker.com/r/clarissaaudrey/jukebox-get-api).
+To pull the latest image, use
+```
+docker pull clarissaaudrey/jukebox-get-api:latest
+```
+
 ### GET Request Examples
 
 Some examples of the results from the GET /jukeboxes requests, as well as exception handling.
